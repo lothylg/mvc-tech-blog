@@ -1,0 +1,182 @@
+[
+    {
+        "id": 50,
+        "user_id": 1,
+        "date_posted": "2024-07-10",
+        "content": "I recently started growing succulents, and they're amazing! Low maintenance and they add so much life to my home."
+    },
+    {
+        "id": 51,
+        "user_id": 2,
+        "date_posted": "2024-08-01",
+        "content": "Just planted some herbs in my garden. Can't wait to use fresh basil and mint in my cooking!"
+    },
+    {
+        "id": 52,
+        "user_id": 3,
+        "date_posted": "2024-06-15",
+        "content": "Orchids are beautiful but so tricky to keep alive. Any tips on how to care for them?"
+    },
+    {
+        "id": 53,
+        "user_id": 4,
+        "date_posted": "2024-05-22",
+        "content": "I've been reading about the benefits of indoor plants. They not only purify the air but also boost mood!"
+    },
+    {
+        "id": 54,
+        "user_id": 5,
+        "date_posted": "2024-04-12",
+        "content": "Did you know that some plants can survive in low light? Perfect for apartments without much natural light."
+    },
+    {
+        "id": 55,
+        "user_id": 6,
+        "date_posted": "2024-07-05",
+        "content": "Just added a snake plant to my collection. It's known for being nearly indestructible!"
+    },
+    {
+        "id": 56,
+        "user_id": 7,
+        "date_posted": "2024-03-30",
+        "content": "Exploring the world of hydroponics. Growing plants without soil is like something out of science fiction!"
+    },
+    {
+        "id": 57,
+        "user_id": 8,
+        "date_posted": "2024-06-10",
+        "content": "I've started a small vegetable garden. Growing my own food has been so rewarding!"
+    },
+    {
+        "id": 58,
+        "user_id": 9,
+        "date_posted": "2024-05-18",
+        "content": "Cacti are my new obsession. They're hardy and come in so many interesting shapes!"
+    },
+    {
+        "id": 59,
+        "user_id": 10,
+        "date_posted": "2024-08-15",
+        "content": "Houseplants can really change the vibe of a room. I just got a monstera, and it's stunning!"
+    },
+    {
+        "id": 60,
+        "user_id": 11,
+        "date_posted": "2024-04-25",
+        "content": "I'm fascinated by the way plants can adapt to different environments. Evolution in action!"
+    },
+    {
+        "id": 61,
+        "user_id": 12,
+        "date_posted": "2024-06-28",
+        "content": "I recently learned about the power of plants in reducing stress. Having them around is so calming."
+    },
+    {
+        "id": 62,
+        "user_id": 13,
+        "date_posted": "2024-07-20",
+        "content": "Flowering plants are my favorite. They add color and beauty to any space."
+    },
+    {
+        "id": 63,
+        "user_id": 14,
+        "date_posted": "2024-03-10",
+        "content": "I grow aloe vera for its medicinal properties. It's great for treating burns and skin issues!"
+    },
+    {
+        "id": 64,
+        "user_id": 15,
+        "date_posted": "2024-04-18",
+        "content": "I've been experimenting with bonsai trees. They require patience but are incredibly rewarding."
+    },
+    {
+        "id": 65,
+        "user_id": 16,
+        "date_posted": "2024-05-05",
+        "content": "Urban gardening is amazing. Even in a city, you can grow your own plants on a small balcony!"
+    },
+    {
+        "id": 66,
+        "user_id": 17,
+        "date_posted": "2024-07-28",
+        "content": "I love growing tomatoes. There's nothing like the taste of home-grown tomatoes fresh off the vine."
+    },
+    {
+        "id": 67,
+        "user_id": 18,
+        "date_posted": "2024-06-01",
+        "content": "I've been researching ancient uses of medicinal plants. So much history in how we've used nature to heal."
+    },
+    {
+        "id": 68,
+        "user_id": 19,
+        "date_posted": "2024-08-20",
+        "content": "The mystical properties of certain plants are fascinating. Some cultures believe they have protective powers."
+    },
+    {
+        "id": 69,
+        "user_id": 20,
+        "date_posted": "2024-05-15",
+        "content": "I've started growing lavender. The scent is so relaxing and helps me sleep better at night."
+    },
+    {
+        "id": 70,
+        "user_id": 21,
+        "date_posted": "2024-07-12",
+        "content": "Just installed a vertical garden in my office. It's a great way to add greenery without taking up space."
+    },
+    {
+        "id": 71,
+        "user_id": 22,
+        "date_posted": "2024-04-01",
+        "content": "I grow sunflowers every year. They're bright, cheerful, and bring a smile to anyone's face."
+    },
+    {
+        "id": 72,
+        "user_id": 23,
+        "date_posted": "2024-08-05",
+        "content": "Plants remind me of the importance of nurturing growth, both in nature and within ourselves."
+    },
+    {
+        "id": 73,
+        "user_id": 24,
+        "date_posted": "2024-06-20",
+        "content": "I've been growing night-blooming jasmine. It's fascinating how some plants thrive in the dark."
+    },
+    {
+        "id": 74,
+        "user_id": 25,
+        "date_posted": "2024-05-25",
+        "content": "I'm growing corn in my backyard. It's a classic crop with a lot of history."
+    },
+    {
+        "id": 75,
+        "user_id": 26,
+        "date_posted": "2024-04-08",
+        "content": "Spider plants are awesome! They're easy to care for and they help purify the air."
+    },
+    {
+        "id": 76,
+        "user_id": 27,
+        "date_posted": "2024-07-01",
+        "content": "I planted some roses this year. They require care, but the blooms are worth it!"
+    },
+    {
+        "id": 77,
+        "user_id": 28,
+        "date_posted": "2024-06-05",
+        "content": "Fast-growing plants are my favorite. Bamboo is especially interesting because of how quickly it grows."
+    },
+    {
+        "id": 78,
+        "user_id": 29,
+        "date_posted": "2024-03-25",
+        "content": "I've been learning about aquatic plants. They're essential for maintaining a healthy aquarium ecosystem."
+    },
+    {
+        "id": 79,
+        "user_id": 30,
+        "date_posted": "2024-04-22",
+        "content": "Gardening is like therapy for me. It's a way to connect with nature and find peace."
+    }
+]
