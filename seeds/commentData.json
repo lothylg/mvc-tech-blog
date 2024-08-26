@@ -1,212 +1,212 @@
 [
     {
-        "id": 100,
-        "user_id": 8,
-        "post_id": 50,
-        "date_posted": "2024-07-15",
-        "content": "Succulents are my favorite too! They're so easy to care for."
-    },
-    {
-        "id": 200,
-        "user_id": 20,
-        "post_id": 51,
-        "date_posted": "2024-08-05",
-        "content": "Fresh herbs are the best! You’ll love having them on hand."
-    },
-    {
-        "id": 300,
-        "user_id": 5,
-        "post_id": 52,
-        "date_posted": "2024-06-20",
-        "content": "Orchids need a lot of humidity. Try misting them daily."
-    },
-    {
-        "id": 400,
-        "user_id": 23,
-        "post_id": 53,
-        "date_posted": "2024-05-25",
-        "content": "Indoor plants really do change the atmosphere of a room."
-    },
-    {
-        "id": 500,
-        "user_id": 17,
-        "post_id": 54,
-        "date_posted": "2024-04-18",
-        "content": "Low light plants are a lifesaver for apartments!"
-    },
-    {
-        "id": 600,
-        "user_id": 19,
-        "post_id": 55,
-        "date_posted": "2024-07-10",
-        "content": "Snake plants are so resilient! Mine have survived some neglect."
-    },
-    {
-        "id": 700,
-        "user_id": 14,
-        "post_id": 56,
-        "date_posted": "2024-04-05",
-        "content": "Hydroponics is fascinating! It's amazing what plants can do without soil."
-    },
-    {
-        "id": 800,
-        "user_id": 21,
-        "post_id": 57,
-        "date_posted": "2024-06-20",
-        "content": "Home-grown veggies are the best. Enjoy your harvest!"
-    },
-    {
-        "id": 900,
-        "user_id": 9,
-        "post_id": 58,
-        "date_posted": "2024-05-25",
-        "content": "Cacti are great for anyone with a busy schedule."
-    },
-    {
         "id": 1000,
-        "user_id": 7,
-        "post_id": 59,
-        "date_posted": "2024-08-18",
-        "content": "Monstera plants are so trendy right now, and for a good reason!"
-    },
-    {
-        "id": 1100,
-        "user_id": 16,
-        "post_id": 60,
-        "date_posted": "2024-05-01",
-        "content": "Evolution in plants is truly amazing. They adapt so well!"
-    },
-    {
-        "id": 1200,
-        "user_id": 27,
-        "post_id": 61,
-        "date_posted": "2024-07-05",
-        "content": "I agree, plants are so calming to have around."
-    },
-    {
-        "id": 1300,
-        "user_id": 29,
-        "post_id": 62,
-        "date_posted": "2024-07-25",
-        "content": "Flowering plants really brighten up a space. Love them!"
-    },
-    {
-        "id": 1400,
-        "user_id": 12,
-        "post_id": 63,
-        "date_posted": "2024-03-15",
-        "content": "Aloe vera is such a useful plant to have around!"
-    },
-    {
-        "id": 1500,
-        "user_id": 28,
-        "post_id": 64,
-        "date_posted": "2024-04-20",
-        "content": "Bonsai trees are beautiful. They’re definitely worth the effort."
-    },
-    {
-        "id": 1600,
-        "user_id": 13,
-        "post_id": 65,
-        "date_posted": "2024-05-10",
-        "content": "Urban gardening is such a great way to stay connected to nature."
-    },
-    {
-        "id": 1700,
-        "user_id": 24,
-        "post_id": 66,
-        "date_posted": "2024-08-01",
-        "content": "Tomatoes are one of my favorites to grow as well!"
-    },
-    {
-        "id": 1800,
-        "user_id": 18,
-        "post_id": 67,
-        "date_posted": "2024-06-10",
-        "content": "There’s so much history in medicinal plants. It’s fascinating!"
-    },
-    {
-        "id": 1900,
-        "user_id": 15,
-        "post_id": 68,
-        "date_posted": "2024-08-22",
-        "content": "Plants with mystical properties? Sounds intriguing!"
-    },
-    {
-        "id": 2000,
-        "user_id": 30,
-        "post_id": 69,
-        "date_posted": "2024-05-20",
-        "content": "Lavender is perfect for relaxation. Great choice!"
-    },
-    {
-        "id": 2100,
-        "user_id": 26,
-        "post_id": 70,
-        "date_posted": "2024-07-20",
-        "content": "A vertical garden sounds awesome! It’s a great space-saver."
-    },
-    {
-        "id": 2200,
-        "user_id": 11,
-        "post_id": 71,
-        "date_posted": "2024-04-10",
-        "content": "Sunflowers are so cheerful. They’re a great addition to any garden."
-    },
-    {
-        "id": 2300,
-        "user_id": 25,
-        "post_id": 72,
-        "date_posted": "2024-08-10",
-        "content": "Plants really do teach us a lot about growth and patience."
-    },
-    {
-        "id": 2400,
-        "user_id": 22,
-        "post_id": 73,
-        "date_posted": "2024-06-25",
-        "content": "Night-blooming jasmine is so unique. I love plants that thrive at night."
-    },
-    {
-        "id": 2500,
-        "user_id": 10,
-        "post_id": 74,
-        "date_posted": "2024-05-30",
-        "content": "Corn is such a rewarding crop to grow!"
-    },
-    {
-        "id": 2600,
-        "user_id": 4,
-        "post_id": 75,
-        "date_posted": "2024-04-12",
-        "content": "Spider plants are fantastic! They're easy to care for and great for indoor spaces."
-    },
-    {
-        "id": 2700,
+        "post_id": 100,
         "user_id": 2,
-        "post_id": 76,
-        "date_posted": "2024-07-10",
-        "content": "Roses are worth the effort. They’re so beautiful when they bloom."
+        "content": "Good luck, Sal! The journey is worth it.",
+        "date_posted": "2023-09-12"
     },
     {
-        "id": 2800,
+        "id": 1001,
+        "post_id": 101,
         "user_id": 3,
-        "post_id": 77,
-        "date_posted": "2024-06-10",
-        "content": "Bamboo is amazing. It’s incredible how fast it grows!"
+        "content": "I totally agree! It/’s a big challenge.",
+        "date_posted": "2023-03-18"
     },
     {
-        "id": 2900,
-        "user_id": 1,
-        "post_id": 78,
-        "date_posted": "2024-04-01",
-        "content": "Aquatic plants are essential for aquariums. They help maintain a healthy ecosystem."
+        "id": 1002,
+        "post_id": 102,
+        "user_id": 4,
+        "content": "Keep at it, Amiko. The learning curve is steep, but you'll get there.",
+        "date_posted": "2023-06-24"
     },
     {
-        "id": 3000,
+        "id": 1003,
+        "post_id": 103,
+        "user_id": 5,
+        "content": "Intense is the right word. But you/’ll be amazed at what you can build.",
+        "date_posted": "2023-01-29"
+    },
+    {
+        "id": 1004,
+        "post_id": 104,
         "user_id": 6,
-        "post_id": 79,
-        "date_posted": "2024-04-25",
-        "content": "Gardening is definitely therapeutic. It’s a great way to relax."
+        "content": "Wishing you all the best on your journey, Neo!",
+        "date_posted": "2023-08-05"
+    },
+    {
+        "id": 1005,
+        "post_id": 105,
+        "user_id": 7,
+        "content": "Exciting times ahead! The full-stack journey is a wild ride.",
+        "date_posted": "2023-05-16"
+    },
+    {
+        "id": 1006,
+        "post_id": 106,
+        "user_id": 8,
+        "content": "Determination is key! You got this, HackerMan.",
+        "date_posted": "2023-08-02"
+    },
+    {
+        "id": 1007,
+        "post_id": 107,
+        "user_id": 9,
+        "content": "It really is fun, Jane! So much to explore.",
+        "date_posted": "2023-04-13"
+    },
+    {
+        "id": 1008,
+        "post_id": 108,
+        "user_id": 10,
+        "content": "Welcome to the world of coding, John!",
+        "date_posted": "2023-03-02"
+    },
+    {
+        "id": 1009,
+        "post_id": 109,
+        "user_id": 11,
+        "content": "Mastering it will be so rewarding, CoolCat!",
+        "date_posted": "2023-03-25"
+    },
+    {
+        "id": 1010,
+        "post_id": 110,
+        "user_id": 12,
+        "content": "You/’re doing great, RoboCop. Just keep pushing!",
+        "date_posted": "2023-01-18"
+    },
+    {
+        "id": 1011,
+        "post_id": 111,
+        "user_id": 13,
+        "content": "Balance is key, SkyWalker! You/’ll master both sides.",
+        "date_posted": "2023-07-14"
+    },
+    {
+        "id": 1012,
+        "post_id": 112,
+        "user_id": 14,
+        "content": "Challenge accepted, Leia! You/’ll do great.",
+        "date_posted": "2023-05-11"
+    },
+    {
+        "id": 1013,
+        "post_id": 113,
+        "user_id": 15,
+        "content": "With your skills, nothing is impossible, Spartan!",
+        "date_posted": "2023-03-13"
+    },
+    {
+        "id": 1014,
+        "post_id": 114,
+        "user_id": 16,
+        "content": "Stealth and precision are key! You/’ll nail it, SolidSnake.",
+        "date_posted": "2023-08-21"
+    },
+    {
+        "id": 1015,
+        "post_id": 115,
+        "user_id": 17,
+        "content": "You/’re right, Ellie! It/’s tough, but we/’ll make it.",
+        "date_posted": "2023-06-08"
+    },
+    {
+        "id": 1016,
+        "post_id": 116,
+        "user_id": 18,
+        "content": "A tough ride indeed, Joel. We/’re all in this together!",
+        "date_posted": "2023-02-22"
+    },
+    {
+        "id": 1017,
+        "post_id": 117,
+        "user_id": 19,
+        "content": "What an adventure, Lara! Full-stack development is thrilling.",
+        "date_posted": "2023-04-27"
+    },
+    {
+        "id": 1018,
+        "post_id": 118,
+        "user_id": 20,
+        "content": "Mastering the mystic arts of coding! You got this, Strange.",
+        "date_posted": "2023-09-03"
+    },
+    {
+        "id": 1019,
+        "post_id": 119,
+        "user_id": 21,
+        "content": "A covert mission indeed, Natasha. You/’re gonna crush it!",
+        "date_posted": "2023-07-27"
+    },
+    {
+        "id": 1020,
+        "post_id": 120,
+        "user_id": 22,
+        "content": "You/’ve got this, Tony. Another challenge for Iron Man!",
+        "date_posted": "2023-06-01"
+    },
+    {
+        "id": 1021,
+        "post_id": 121,
+        "user_id": 23,
+        "content": "Never give up, Steve! The mission is tough but worth it.",
+        "date_posted": "2023-04-17"
+    },
+    {
+        "id": 1022,
+        "post_id": 122,
+        "user_id": 24,
+        "content": "Thunderous excitement indeed, Thor! Full-stack will be a breeze for you.",
+        "date_posted": "2023-01-10"
+    },
+    {
+        "id": 1023,
+        "post_id": 123,
+        "user_id": 25,
+        "content": "Solving mysteries one line of code at a time. You got this, Bruce.",
+        "date_posted": "2023-02-05"
+    },
+    {
+        "id": 1024,
+        "post_id": 124,
+        "user_id": 26,
+        "content": "Up, up, and away! Full-stack development is in your grasp, Clark.",
+        "date_posted": "2023-06-30"
+    },
+    {
+        "id": 1025,
+        "post_id": 125,
+        "user_id": 27,
+        "content": "Swinging through code like a pro, Peter! Keep it up.",
+        "date_posted": "2023-03-07"
+    },
+    {
+        "id": 1026,
+        "post_id": 126,
+        "user_id": 28,
+        "content": "The art of war indeed, Diana! Full-stack will be your victory.",
+        "date_posted": "2023-08-13"
+    },
+    {
+        "id": 1027,
+        "post_id": 127,
+        "user_id": 29,
+        "content": "Speeding through development! You/’re doing amazing, Barry.",
+        "date_posted": "2023-01-22"
+    },
+    {
+        "id": 1028,
+        "post_id": 128,
+        "user_id": 30,
+        "content": "Diving deep into coding! You/’ll master it, Arthur.",
+        "date_posted": "2023-04-08"
+    },
+    {
+        "id": 1029,
+        "post_id": 129,
+        "user_id": 1,
+        "content": "One line of code at a time! You/’re on the right track, Diana.",
+        "date_posted": "2023-09-21"
     }
 ]

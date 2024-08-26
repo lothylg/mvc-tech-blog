@@ -7,12 +7,13 @@
         <div id="cardContainer" class="col-md-12 border border-3 m-4 p-3">
             <div id="blogCard" class="m-2 row">
                 <div id="cardTitle" class="col-12 border bg-success p-2 d-flex justify-content-between m-1">
-                    <h5 class="m-3"> Orchids are beautiful but so tricky to keep alive. Any tips on how to care for them? </h5>
-                    <p>-Lothy Gresser on 8/24/24</p>
-                </div>
+                    <h5 class="m-3"> {{post.content}}</h5>
+                    <p>-{{post.username}} on {{post.date_posted}}</p>
+                </div> 
                 <div id="existingComments" class="col-12 border border-3 p-2 my-2">
-                    <p>Indoor plants really do change the atmosphere of a room.</p>
-                    <p>-Iron Man 8/24/24</p>
+                    {{#each comments as |comment|}}
+                    <p>{{comment.content}}</p>
+                    <p>-{{comment.username}} {{comment.date_posted}}</p>  
                 </div>
                 <div id="addAComment" class="col-12 row border border-3">
                     <label class="p-2">Add your own comment!</label> </br>
