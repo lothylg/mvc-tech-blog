@@ -56,18 +56,18 @@ router.get('/', async (req, res) => {
 
 router.get("/dashboard", async (req, res) => {
     try {
-        if (req.session.user_id) {
+        // if (req.session.user_id) {
             const postData = await Post.findAll({
-                where: { user_id: req.session.user_id },
+                where: { user_id: 8}, //req.session.user_id
                 include: { model: Comment, as: "comments", include: { model: User, as: "user" } }
             });
 
             const loggedIn = req.session.logged_in;
 
             res.render('dashboard', { posts: postData, loggedIn: loggedIn });
-        } else {
-            res.render('dashboard', { posts: [], loggedIn: false });
-        }
+        // } else {
+        //     res.render('dashboard', { posts: [], loggedIn: false });
+        // }
     } catch (err) {
         console.log(err);
         res.status(400).json(err);
