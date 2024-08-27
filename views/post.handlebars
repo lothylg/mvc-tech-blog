@@ -1,25 +1,72 @@
-        <div id="mainCont">
-            <div class="col-12 p-3 bg-info row">
-                <div class="text-center">Post</div>            
-            </div>
+<div id="mainCont">
+    <div class="col-12 p-3 bg-info row">
+        <div class="text-center">Post</div>
+    </div>
+</div>
+</header>
+<div id="cardContainer" class="col-md-12 border border-3 m-4 p-3">
+    <div id="blogCard" class="m-2 row">
+        <div id="cardTitle" class="col-12 border bg-success p-2 d-flex justify-content-between m-1">
+            <h5 class="m-3"> {{post.dataValues.content}}</h5>
+            <p>-{{post.dataValues.user.dataValues.username}} on {{post.dataValues.date_posted}}</p>
         </div>
-        </header>    
-        <div id="cardContainer" class="col-md-12 border border-3 m-4 p-3">
-            <div id="blogCard" class="m-2 row">
-                <div id="cardTitle" class="col-12 border bg-success p-2 d-flex justify-content-between m-1">
-                    <h5 class="m-3"> {{post.content}}</h5>
-                    <p>-{{post.username}} on {{post.date_posted}}</p>
-                </div> 
-                <div id="existingComments" class="col-12 border border-3 p-2 my-2">
-                    {{#each comments as |comment|}}
-                    <p>{{comment.content}}</p>
-                    <p>-{{comment.username}} {{comment.date_posted}}</p>  
-                </div>
-                <div id="addAComment" class="col-12 row border border-3">
-                    <label class="p-2">Add your own comment!</label> </br>
-                    <input type="textarea" id="blogContent" class="col-12 p-2">
-                    <button type="button" id="editBtn" class="btn btn-dark col-4 m-2">Submit</button>
-                </div>
-                
-            </div>
+        <div id="existingComments" class="col-12 border border-3 p-2 my-2">
+            {{#each post.dataValues.comments as |comment|}}
+            <p>{{comment.dataValues.content}}</p>
+            <p>-{{comment.user.dataValues.username}} {{comment.dataValues.date_posted}}</p>
+            {{/each}}
         </div>
+        <div id="addAComment" class="col-12 row border border-3">
+            <label class="p-2">Add your own comment!</label> </br>
+            <input type="textarea" id="blogContent" class="col-12 p-2">
+            <button type="button" id="commentBtn" class="btn btn-dark col-4 m-2">Submit</button>
+        </div>
+
+    </div>
+</div>
+{{!-- {{#if loggedIn}}
+<div id="cardContainer" class="col-md-12 border border-3 m-4 p-3">
+    <div id="blogCard" class="m-2 row">
+        <div id="cardTitle" class="col-12 border bg-success p-2 d-flex justify-content-between m-1">
+            <h5 class="m-3"> {{post.dataValues.content}}</h5>
+            <p>-{{post.dataValues.user.dataValues.username}} on {{post.dataValues.date_posted}}</p>
+        </div>
+        <div id="existingComments" class="col-12 border border-3 p-2 my-2">
+            {{#each post.dataValues.comments as |comment|}}
+            <p>{{comment.dataValues.content}}</p>
+            <p>-{{comment.user.dataValues.username}} {{comment.dataValues.date_posted}}</p>
+            {{/each}}
+        </div>
+        <div id="addAComment" class="col-12 row border border-3">
+            <label class="p-2">Add your own comment!</label> </br>
+            <input type="textarea" id="blogContent" class="col-12 p-2">
+            <button type="button" id="commentBtn" class="btn btn-dark col-4 m-2">Submit</button>
+        </div>
+
+    </div>
+</div>
+{{else}}
+<div id="sUpCont" class="col-12 row m-12">
+    <div class="col-4"></div>
+    <div class="col-4">
+        <form>
+            <h3> Sign in</h3>
+            <h5>User Name:</h5>
+            <input id="name-signIn" name="username" type="text" required></br></br>
+            <h5>Password:</h5>
+            <input id="password-signIn" name="password" type="password" required></br> </br>
+            <button type="submit" id="loginSubmit" class="btn btn-outline-success"> Sign in! </button>
+        </form>
+    </div>
+    <div class="col-4">
+        <form>
+            <h2>Not a member? Sign up!</h2>
+            <h5>User Name:</h5>
+            <input id="name-signup" name="username" type="text" required></br></br>
+            <h5>Password:</h5>
+            <input id="password-signup" name="password" type="password" required></br> </br>
+            <button type="submit" id="createSubmit" class="btn btn-outline-success"> Sign Up! </button>
+        </form>
+    </div>
+</div>
+{{/if}} --}}

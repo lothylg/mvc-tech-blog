@@ -1,183 +1,122 @@
 [
-      {
-        "id": 1,
-        "username": "Sal",
-        "email": "sal@hotmail.com",
-        "password": "password12345"
-      },
-      {
-        "id": 2,
-        "username": "Lernantino",
-        "email": "lernantino@gmail.com",
-        "password": "password12345"
-      },
-      {
-        "id": 3,
-        "username": "Amiko",
-        "email": "amiko2k20@aol.com",
-        "password": "password12345"
-      },
-      {
-        "id": 4,
-        "username": "Mara_Jade",
-        "email": "mara.jade@example.com",
-        "password": "forceuser456"
-      },
-      {
-        "id": 5,
-        "username": "Neo_Anderson",
-        "email": "neo@matrixmail.com",
-        "password": "redpill123"
-      },
-      {
-        "id": 6,
-        "username": "Trinity84",
-        "email": "trinity84@zion.com",
-        "password": "matrixlove"
-      },
-      {
-        "id": 7,
-        "username": "HackerMan",
-        "email": "hackerman@cyberspace.net",
-        "password": "supersecure777"
-      },
-      {
-        "id": 8,
-        "username": "JaneDoe89",
-        "email": "jane.doe89@yahoo.com",
-        "password": "janepass89"
-      },
-      {
-        "id": 9,
-        "username": "JohnSmith123",
-        "email": "john.smith123@gmail.com",
-        "password": "smithsecure456"
-      },
-      {
-        "id": 10,
-        "username": "CoolCat2024",
-        "email": "coolcat2024@catmail.com",
-        "password": "coolpassword2024"
-      },
-      {
-        "id": 11,
-        "username": "RoboCop",
-        "email": "robocop@cyberdyne.com",
-        "password": "lawman9000"
-      },
-      {
-        "id": 12,
-        "username": "SkyWalker",
-        "email": "skywalker@rebellion.org",
-        "password": "jedi5678"
-      },
-      {
-        "id": 13,
-        "username": "Leia_Organa",
-        "email": "leia.organa@rebellion.org",
-        "password": "princess2024"
-      },
-      {
-        "id": 14,
-        "username": "Spartan117",
-        "email": "masterchief@unsc.gov",
-        "password": "halo777"
-      },
-      {
-        "id": 15,
-        "username": "SolidSnake",
-        "email": "solidsnake@foxhound.com",
-        "password": "stealthmode999"
-      },
-      {
-        "id": 16,
-        "username": "Ellie_W",
-        "email": "ellie.williams@outbreak.com",
-        "password": "lastofus456"
-      },
-      {
-        "id": 17,
-        "username": "Joel_M",
-        "email": "joel.miller@outbreak.com",
-        "password": "clicker123"
-      },
-      {
-        "id": 18,
-        "username": "TombRaider",
-        "email": "lara.croft@adventure.net",
-        "password": "raider456"
-      },
-      {
-        "id": 19,
-        "username": "DrStrange",
-        "email": "dr.strange@sanctumsanctorum.com",
-        "password": "sorcery2024"
-      },
-      {
-        "id": 20,
-        "username": "BlackWidow",
-        "email": "natasha.romanoff@shield.gov",
-        "password": "spy007"
-      },
-      {
-        "id": 21,
-        "username": "TonyStark",
-        "email": "tony.stark@starkindustries.com",
-        "password": "ironman2024"
-      },
-      {
-        "id": 22,
-        "username": "CaptainRogers",
-        "email": "steve.rogers@avengers.com",
-        "password": "superSoldier101"
-      },
-      {
-        "id": 23,
-        "username": "Thor_Odinson",
-        "email": "thor@asgard.com",
-        "password": "thunder2024"
-      },
-      {
-        "id": 24,
-        "username": "Bruce_Wayne",
-        "email": "bruce.wayne@wayneenterprises.com",
-        "password": "darkknight456"
-      },
-      {
-        "id": 25,
-        "username": "Clark_Kent",
-        "email": "clark.kent@dailyplanet.com",
-        "password": "kryptonian789"
-      },
-      {
-        "id": 26,
-        "username": "PeterParker",
-        "email": "peter.parker@dailybugle.com",
-        "password": "spidey123"
-      },
-      {
-        "id": 27,
-        "username": "WonderWoman",
-        "email": "diana.prince@amazon.com",
-        "password": "lassooftruth"
-      },
-      {
-        "id": 28,
-        "username": "BarryAllen",
-        "email": "barry.allen@ccpd.gov",
-        "password": "fastestman"
-      },
-      {
-        "id": 29,
-        "username": "Arthur_Curry",
-        "email": "arthur.curry@atlantis.com",
-        "password": "seaking2024"
-      },
-      {
-        "id": 30,
-        "username": "DianaPrince",
-        "email": "diana.prince@themyscira.com",
-        "password": "amazonwarrior"
-      }
-    ]
-  
+  {
+    "username": "Sal",
+    "password": "password12345"
+  },
+  {
+    "username": "Lernantino",
+    "password": "password12345"
+  },
+  {
+    "username": "Amiko",
+    "password": "password12345"
+  },
+  {
+    "username": "Mara_Jade",
+    "password": "forceuser456"
+  },
+  {
+    "username": "Neo_Anderson",
+    "password": "redpill123"
+  },
+  {
+    "username": "Trinity84",
+    "password": "matrixlove"
+  },
+  {
+    "username": "HackerMan",
+    "password": "supersecure777"
+  },
+  {
+    "username": "JaneDoe89",
+    "password": "janepass89"
+  },
+  {
+    "username": "JohnSmith123",
+    "password": "smithsecure456"
+  },
+  {
+    "username": "CoolCat2024",
+    "password": "coolpassword2024"
+  },
+  {
+    "username": "RoboCop",
+    "password": "lawman9000"
+  },
+  {
+    "username": "SkyWalker",
+    "password": "jedi5678"
+  },
+  {
+    "username": "Leia_Organa",
+    "password": "princess2024"
+  },
+  {
+    "username": "Spartan117",
+    "password": "halo777"
+  },
+  {
+    "username": "SolidSnake",
+    "password": "stealthmode999"
+  },
+  {
+    "username": "Ellie_W",
+    "password": "lastofus456"
+  },
+  {
+    "username": "Joel_M",
+    "password": "clicker123"
+  },
+  {
+    "username": "TombRaider",
+    "password": "raider456"
+  },
+  {
+    "username": "DrStrange",
+    "password": "sorcery2024"
+  },
+  {
+    "username": "BlackWidow",
+    "password": "spy007"
+  },
+  {
+    "username": "TonyStark",
+    "password": "ironman2024"
+  },
+  {
+    "username": "CaptainRogers",
+    "password": "superSoldier101"
+  },
+  {
+    "username": "Thor_Odinson",
+    "password": "thunder2024"
+  },
+  {
+    "username": "Bruce_Wayne",
+    "password": "darkknight456"
+  },
+  {
+    "username": "Clark_Kent",
+    "password": "kryptonian789"
+  },
+  {
+    "username": "PeterParker",
+    "password": "spidey123"
+  },
+  {
+    "username": "WonderWoman",
+    "password": "lassooftruth"
+  },
+  {
+    "username": "BarryAllen",
+    "password": "fastestman"
+  },
+  {
+    "username": "Arthur_Curry",
+    "password": "seaking2024"
+  },
+  {
+    "username": "DianaPrince",
+    "password": "amazonwarrior"
+  }
+]

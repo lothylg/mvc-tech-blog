@@ -5,7 +5,7 @@
             </header>
             <div id="postContainer" class="col-12 gy-4">
             {{#each posts as |post|}}
-                <div id="{{post.dataValues.id}}" class="col-10 border bg-secondary p-2 d-flex justify-content-between m-4" style="cursor: pointer;" onclick="window.location.href='post/{{post.dataValues.id}}'">
+                <div id="{{post.dataValues.id}}" class="col-10 border bg-secondary p-2 d-flex justify-content-between m-4" style="cursor: pointer;" onclick="window.location.href='/api/posts/{{post.dataValues.id}}'">
                     <h5 class="text-light">{{post.dataValues.content}}</h3>
                     <p>{{post.dataValues.user.dataValues.username}} {{post.dataValues.date_posted}}</p>
                 </div>

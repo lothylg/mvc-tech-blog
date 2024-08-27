@@ -1,181 +1,121 @@
 [
     {
-        "id": 100,
-        "user_id": 1,
         "content": "I just started learning how to be a full-stack web developer! Excited for this journey.",
         "date_posted": "2023-09-10"
     },
     {
-        "id": 101,
-        "user_id": 2,
         "content": "Full-stack development seems challenging, but I'm up for it!",
         "date_posted": "2023-03-15"
     },
     {
-        "id": 102,
-        "user_id": 3,
         "content": "Diving into web development. There's so much to learn!",
         "date_posted": "2023-06-22"
     },
     {
-        "id": 103,
-        "user_id": 4,
         "content": "Learning to code both frontend and backend is intense but rewarding.",
         "date_posted": "2023-01-27"
     },
     {
-        "id": 104,
-        "user_id": 5,
         "content": "Starting my journey as a full-stack web developer. Wish me luck!",
         "date_posted": "2023-08-03"
     },
     {
-        "id": 105,
-        "user_id": 6,
         "content": "Just enrolled in a full-stack web development course. Excited!",
         "date_posted": "2023-05-14"
     },
     {
-        "id": 106,
-        "user_id": 7,
-        "content": "The road to becoming a full-stack developer is long, but I/'m determined.",
+        "content": "The road to becoming a full-stack developer is long, but I'm determined.",
         "date_posted": "2023-07-30"
     },
     {
-        "id": 107,
-        "user_id": 8,
-        "content": "Learning both frontend and backend development. It/'s a lot of fun!",
+        "content": "Learning both frontend and backend development. It's a lot of fun!",
         "date_posted": "2023-04-11"
     },
     {
-        "id": 108,
-        "user_id": 9,
         "content": "Started my full-stack developer journey today. Ready to learn!",
         "date_posted": "2023-02-28"
     },
     {
-        "id": 109,
-        "user_id": 10,
         "content": "Full-stack web development is fascinating. Looking forward to mastering it.",
         "date_posted": "2023-03-22"
     },
     {
-        "id": 110,
-        "user_id": 11,
-        "content": "Taking my first steps into full-stack web development. It/'s tough but exciting.",
+        "content": "Taking my first steps into full-stack web development. It's tough but exciting.",
         "date_posted": "2023-01-15"
     },
     {
-        "id": 111,
-        "user_id": 12,
         "content": "Learning full-stack development is like learning the Force. Balance is key.",
         "date_posted": "2023-07-12"
     },
     {
-        "id": 112,
-        "user_id": 13,
         "content": "Just started learning full-stack development. Excited for the challenge!",
         "date_posted": "2023-05-08"
     },
     {
-        "id": 113,
-        "user_id": 14,
         "content": "Becoming a full-stack developer is the ultimate mission. Ready to tackle it.",
         "date_posted": "2023-03-10"
     },
     {
-        "id": 114,
-        "user_id": 15,
-        "content": "Full-stack development requires stealth and precision. I/'m up for it.",
+        "content": "Full-stack development requires stealth and precision. I'm up for it.",
         "date_posted": "2023-08-18"
     },
     {
-        "id": 115,
-        "user_id": 16,
         "content": "Learning full-stack development is like surviving in a post-apocalyptic world. Challenging but possible.",
         "date_posted": "2023-06-06"
     },
     {
-        "id": 116,
-        "user_id": 17,
-        "content": "Starting my full-stack developer journey. It/'s going to be a tough ride.",
+        "content": "Starting my full-stack developer journey. It's going to be a tough ride.",
         "date_posted": "2023-02-20"
     },
     {
-        "id": 117,
-        "user_id": 18,
         "content": "Embarking on the adventure of becoming a full-stack web developer.",
         "date_posted": "2023-04-25"
     },
     {
-        "id": 118,
-        "user_id": 19,
         "content": "Learning full-stack development feels like mastering the mystic arts.",
         "date_posted": "2023-09-01"
     },
     {
-        "id": 119,
-        "user_id": 20,
-        "content": "Becoming a full-stack developer is like a covert mission. I/'m ready.",
+        "content": "Becoming a full-stack developer is like a covert mission. I'm ready.",
         "date_posted": "2023-07-25"
     },
     {
-        "id": 120,
-        "user_id": 21,
-        "content": "I/'ve decided to learn full-stack web development. It/'s a new challenge!",
+        "content": "I've decided to learn full-stack web development. It's a new challenge!",
         "date_posted": "2023-05-30"
     },
     {
-        "id": 121,
-        "user_id": 22,
-        "content": "Full-stack development is my new mission. I won/'t give up.",
+        "content": "Full-stack development is my new mission. I won't give up.",
         "date_posted": "2023-04-15"
     },
     {
-        "id": 122,
-        "user_id": 23,
         "content": "Starting my journey into full-stack web development. Thunderous excitement!",
         "date_posted": "2023-01-08"
     },
     {
-        "id": 123,
-        "user_id": 24,
-        "content": "Learning full-stack development is like solving the world/'s greatest mystery.",
+        "content": "Learning full-stack development is like solving the world's greatest mystery.",
         "date_posted": "2023-02-03"
     },
     {
-        "id": 124,
-        "user_id": 25,
         "content": "Just began my journey to become a full-stack web developer. Up, up, and away!",
         "date_posted": "2023-06-28"
     },
     {
-        "id": 125,
-        "user_id": 26,
         "content": "Balancing frontend and backend development is like swinging between skyscrapers.",
         "date_posted": "2023-03-04"
     },
     {
-        "id": 126,
-        "user_id": 27,
         "content": "Learning full-stack development is like mastering the art of war.",
         "date_posted": "2023-08-11"
     },
     {
-        "id": 127,
-        "user_id": 28,
         "content": "Speeding through my full-stack web development course!",
         "date_posted": "2023-01-20"
     },
     {
-        "id": 128,
-        "user_id": 29,
         "content": "Diving into the deep sea of full-stack web development.",
         "date_posted": "2023-04-06"
     },
     {
-        "id": 129,
-        "user_id": 30,
         "content": "Training to become a full-stack web developer, one line of code at a time.",
         "date_posted": "2023-09-19"
     }

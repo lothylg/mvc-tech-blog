@@ -2,58 +2,37 @@ const router = require('express').Router();
 const { Comment, Post, User } = require('../../models');
 
 // Get all posts
-// router.get('/', async (req, res) => {
-//     try {
-//         const posts = await Post.findAll({
-//             include: [
-//                 { model: Comment, as: "comments" },
-//                 { model: User, as: "user" }
-//             ]
-//         });
-//         res.json({ status: "success", payload: posts });
-//     } catch (err) {
-//         console.log(err);
-//         res.status(400).json(err);
-//     }
-// });
-
-// Get post by id
-router.get('/:id', async (req, res) => {
+router.get('/', async (req, res) => {
     try {
-        const post = await Post.findByPk(req.params.id, {
+        const posts = await Post.findAll({
             include: [
-                { model: Comment, as: "comments", include: {model: User, as: "user"} },
+                { model: Comment, as: "comments" },
                 { model: User, as: "user" }
             ]
         });
-        res.render('post', {post})
-        res.json({ status: "success", payload: post });
-
+        res.json({ status: "success", payload: posts });
     } catch (err) {
         console.log(err);
         res.status(400).json(err);
     }
 });
 
-// Get post by user
-router.get('/users/:id', async (req, res) => {
+// Get post by id
+router.get('/:id', async (req, res) => {
     try {
-        const userPosts = await Post.findAll({
-            where: { user_id: req.params.id },
+        const postData = await Post.findByPk(req.params.id, {
             include: [
                 { model: Comment, as: "comments", include: {model: User, as: "user"}  },
                 { model: User, as: "user" }
             ]
         });
+        const post = postData.get({ plain: true});
+        console.log(postData)
+        res.render('post', {post: postData, logged_in: req.session.logged_in});
 
-        if (userPosts.length > 0) {
-            res.json({ status: "success", payload: userPosts });
-        } else {
-            res.status(404).json({ status: "error", message: "No posts found for this user." });
-        }
-    } catch (error) {
-        console.error(error);
-        res.status(500).json({ status: "error", message: "An error occurred while fetching posts." });
+    } catch (err) {
+        console.log(err);
+        res.status(400).json(err);
     }
 });
 
